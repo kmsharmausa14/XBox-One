@@ -1,0 +1,74 @@
+C:\Users\Tao\Desktop\fingertrack21 (1)\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\bin\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\bin\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_Mar31\fingertrack21\obj\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\obj\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\bin\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\bin\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+C:\Users\Tao\Desktop\fingerreaching_April1\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+C:\Users\Tao\Desktop\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+D:\Image Processing\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.exe.config
+D:\Image Processing\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.exe
+D:\Image Processing\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.pdb
+D:\Image Processing\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.exe
+D:\Image Processing\fingerreaching_April04\fingertrack21\bin\Debug\fingertrack21.pdb
+D:\Image Processing\fingerreaching_April04\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+D:\Image Processing\fingerreaching_April04\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+D:\Image Processing\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+D:\Image Processing\fingerreaching_April04\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+D:\Image Processing\fingerreaching_April04\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\obj\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\bin\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\bin\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+C:\Users\Tao\Desktop\Apr 04 night\fingerreaching_April04_night\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.exe
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.pdb
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+C:\Users\Tao\Desktop\Apr 08\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+D:\Image Processing\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.exe.config
+D:\Image Processing\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.exe
+D:\Image Processing\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.pdb
+D:\Image Processing\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.exe
+D:\Image Processing\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.pdb
+D:\Image Processing\fingerreaching_April08\fingertrack21\bin\Debug\Microsoft.Kinect.dll
+D:\Image Processing\fingerreaching_April08\fingertrack21\bin\Debug\Microsoft.Kinect.xml
+D:\Image Processing\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.csprojResolveAssemblyReference.cache
+D:\Image Processing\fingerreaching_April08\fingertrack21\obj\Debug\FingerTracking.MainWindow.resources
+D:\Image Processing\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.csproj.GenerateResource.Cache
+C:\Users\Krrish\Source\Repos\XBox-One\fingerreaching_April08\fingertrack21\bin\Debug\fingertrack21.exe.config
+C:\Users\Krrish\Source\Repos\XBox-One\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.exe
+C:\Users\Krrish\Source\Repos\XBox-One\fingerreaching_April08\fingertrack21\obj\Debug\fingertrack21.pdb
